@@ -1,18 +1,7 @@
-# <p align="center">Bienvenid@ a mi perfil! 👋</p>
+# <p align="center" color: "blue" >Bienvenid@ a mi perfil! 👋</p>
 
-## <p align="center">"The best way to predict the future is to create it." - Peter Drucker</p>
+## <p align="center"><color="blue">"The best way to predict the future is to create it." - Peter Drucker</font></p>
 
-<style>
-h1 {
-  text-align: center;
-  color: blue;
-}
-
-h2 {
-  text-align: center;
-  color: blue;
-}
-</style>
 
 
 Hola! mi nombre es Juan y en este acto voy a aventurarme en la difícil empresa de resumir algo de mí en unas pocas líneas.
