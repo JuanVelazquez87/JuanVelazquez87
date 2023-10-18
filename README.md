@@ -35,17 +35,18 @@ Todas estas facetas antes mencionadas son afluentes que llegan como ríos a mi a
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" style="width: 50px; height: 50px;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="width: 50px; height: 50px;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" style="width: 50px; height: 50px;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="width: 50px; height: 50px;">
+        <img src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" style="width: 50px; height: 50px;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" style="width: 50px; height: 50px;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" style="width: 50px; height: 50px;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" style="width: 50px; height: 50px;">
+      <br>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" style="width: 50px; height: 50px;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="width: 50px; height: 50px;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" style="width: 50px; height: 50px;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" style="width: 50px; height: 50px;">
         <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" style="width: 50px; height: 50px;">
          <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" style="width: 50px; height: 50px;">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="width: 50px; height: 50px;">
+          <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" style="width: 50px; height: 50px;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" style="width: 50px; height: 50px;">
     </div>
 </div>
