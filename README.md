@@ -1,6 +1,6 @@
 # <p align="center">Bienvenid@ a mi perfil! 👋</p>
 
-## <p align="center">"The best way to predict the future is to create it." - Peter Drucker</font></p>
+## <p align="center" > <font color="blue">"The best way to predict the future is to create it." - Peter Drucker</font></p>
 
 
 
