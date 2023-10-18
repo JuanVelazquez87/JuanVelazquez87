@@ -1,4 +1,6 @@
-### Hi there 👋
+#Bienvenid@ a mi perfil! 👋
+
+## "The best way to predict the future is to create it." - Peter Drucker
 
 Hola! mi nombre es Juan y en este acto voy a aventurarme en la difícil empresa de resumir algo de mí en unas pocas líneas.
 
