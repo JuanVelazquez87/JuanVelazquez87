@@ -1,10 +1,7 @@
-# <p align="center">
-   Bienvenid@ a mi perfil! 👋
-</p>
+# <p align="center">Bienvenid@ a mi perfil! 👋</p>
 
-##  <p align="center">
-"The best way to predict the future is to create it." - Peter Drucker
-</p>
+## <p align="center"><font color="blue">"The best way to predict the future is to create it." - Peter Drucker</font></p>
+
 Hola! mi nombre es Juan y en este acto voy a aventurarme en la difícil empresa de resumir algo de mí en unas pocas líneas.
 
 👨🏻‍💻 Profesionalmente, soy un desarrollador Full Stack apasionado por el mundo de la programación y las tecnologías web. Tengo conocimientos en todo el stack de JavaScript, sin embargo, estoy en continua investigación y aprendizaje de nuevas herramientas y tecnologías.
