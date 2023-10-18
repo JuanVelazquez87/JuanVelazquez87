@@ -2,6 +2,13 @@
 
 ## <p align="center" > <font color="blue">"The best way to predict the future is to create it." - Peter Drucker</font></p>
 
+<div align="center">  
+<img src = "https://media.giphy.com/media/AkYglsk1IR8yAK2cXW/giphy.gif" width:"200" >
+
+ </div>
+
+   
+
 
 
 Hola! mi nombre es Juan y en este acto voy a aventurarme en la difícil empresa de resumir algo de mí en unas pocas líneas.
