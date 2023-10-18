@@ -1,14 +1,12 @@
 # <p align="center">Bienvenid@ a mi perfil! 👋</p>
 
-## <p align="center" > <font color="blue">"The best way to predict the future is to create it." - Peter Drucker</font></p>
 
-<div align="center">  
-<img src = "https://media.giphy.com/media/AkYglsk1IR8yAK2cXW/giphy.gif" width:"200" >
-
- </div>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/AkYglsk1IR8yAK2cXW/giphy.gif" style="width: 300px;">
+</div>
    
 
+## <p align="center" > <font color="blue">"The best way to predict the future is to create it." - Peter Drucker</font></p>
 
 
 Hola! mi nombre es Juan y en este acto voy a aventurarme en la difícil empresa de resumir algo de mí en unas pocas líneas.
