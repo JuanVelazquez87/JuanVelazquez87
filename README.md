@@ -6,7 +6,7 @@ Hola! mi nombre es Juan y en este acto voy a aventurarme en la difícil empresa 
 
 En mi experiencia de vida pueden encontrarse facetas muy diversas de mí, dentro de las cuales puedo mencionar:
 
-🎸 Músico: soy cantante desde que tengo uso de razón, amo profundamente la música como expresión, como vínculo y como terapia. He dado clases de canto en academias y cantado en distintos proyectos musicales.
+🎸 Músico: soy cantante, amo profundamente la música como expresión, como vínculo y como terapia. He dado clases de canto en academias y cantado en distintos proyectos musicales.
 
 🌎 Viajero: he tenido la oportunidad de conocer diferentes partes del mundo, vivir su cultura, acercarme a su gente y expandir mis límites de una manera única. Considero que abrirse a nuevas experiencias es la base del autoconocimiento.
 
